@@ -40,3 +40,20 @@ When matches found, it will display to the textboxes.
 
 ![Add Supplier](/interface/addsupplier.JPG)
 
+4. Create Purchase Order - 
+    1. In the update database tab, select Purchase Order in the dropdown menu
+    2. Click GO, and the interface below will be shown
+    3. Type and retrieve the necessary information
+    4. Then, click GO to add the new PO
+    5. This will then be added to the Transaction History database.
+
+![Create Purchase](/interface/po.JPG)
+
+5. Withdraw Item - 
+    1. In the update database tab, select Withdraw in the dropdown menu
+    2. Click GO, and the interface below will be shown
+    3. Type and retrieve the necessary information
+    4. Then, click GO to add the withdrawed item
+    5. This will then be added to the Transaction History database.
+
+![Withdraw](/interface/withdraw.JPG)
