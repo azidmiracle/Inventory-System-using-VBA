@@ -16,7 +16,8 @@ Location, Picture, Vendor , cost)
 ## Interface
 1. Search - 
 For the search method, the user will type the part number, and the system will automatically search for the part number.
-When matches found, it will display to the textboxes
+When matches found, it will display to the textboxes.
+
 ![Home](/interface/home.JPG)
 
 2. Update Data - 
@@ -36,3 +37,6 @@ When matches found, it will display to the textboxes
     5. Select the current location
    
 ![Add](/interface/additem.JPG)
+
+![Add Supplier](/interface/addsupplier.JPG)
+
