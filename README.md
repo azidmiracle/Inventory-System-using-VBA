@@ -21,7 +21,7 @@ When matches found, it will display to the textboxes.
 ![Home](/interface/home.JPG)
 
 2. Update Data - 
-    1. The user will type the part number frirst then click the RETRIEVE button.
+    1. The user will type the part number first then click the RETRIEVE button.
     2. The data will be displayed.
     3. The user will change the data
     4. Click the UPDATE button and the system will update the data,
