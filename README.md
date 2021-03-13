@@ -20,11 +20,19 @@ When matches found, it will display to the textboxes
 ![Home](/interface/home.JPG)
 
 2. Update Data - 
-    a. The user will type the part number frirst then click the RETRIEVE button.
-    b. The data will be displayed.
-    c. The user will change the data
-    d. Click the UPDATE button and the system will update the data,
+    1. The user will type the part number frirst then click the RETRIEVE button.
+    2. The data will be displayed.
+    3. The user will change the data
+    4. Click the UPDATE button and the system will update the data,
 
 
 ![Update](/interface/errorcorrection.JPG)
 
+3. Add Item - 
+    1. Click the Add Item tab and click ADD TO DATABASE button.
+    2. Type the part number and description
+    3. Click the ADD CATEGORY/VENDOR to add vendor
+    4. Upload picture
+    5. Select the current location
+   
+![Add](/interface/additem.JPG)
